@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @justinpricee
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+justinpricee/justinpricee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+git config --global user.name "PUT YOUR NAME HERE"
+git config --global user.email YOUREMAIL@YOUREMAIL.com
+git config --global pull.rebase true
